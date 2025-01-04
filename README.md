@@ -13,11 +13,11 @@
 * [**Ejercicios Adicionales DTE-RP**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Practicas%20PDF/Ejercicios%20adicionales%20DTE%20y%20Redes%20de%20Petri.pdf)
 
 ## Explicaciones Prácticas
-* [**1. Historias de Usuario**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicaci%C3%B3n-HU-2024.pdf)
-* [**2. Casos de Uso**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-CU-2024.pptx)
-* [**3. Diagramas de Transición de Estados**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-DTE-2024.pdf)
-* [**4. Redes de Petri**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-RP-2024.pptx)
-* [**5. Tablas de Decisión**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-TD-2024.pdf)
+* [**1. Historias de Usuario**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/1.%20Explicaci%C3%B3n-HU-2024.pdf)
+* [**2. Casos de Uso**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/2.%20Explicacion-CU-2024.pptx)
+* [**3. Diagramas de Transición de Estados**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/3.%20Explicacion-DTE-2024.pdf)
+* [**4. Redes de Petri**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/4.%20Explicacion-RP-2024.pptx)
+* [**5. Tablas de Decisión**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/5.%20Explicacion-TD-2024.pdf)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
