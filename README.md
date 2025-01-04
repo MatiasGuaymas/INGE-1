@@ -1,21 +1,23 @@
 <h1 align="center"> Ingeniería de Software 1 </h1>
 
-### [**Modelos de parciales**](https://github.com/MatiasGuaymas/DBD/tree/main/Parciales)
+### [**Modelos de parciales**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Parciales)
+### [**Autoevaluaciones**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Autoevaluaciones)
 
 ## Prácticas 
-### Prácticas PDF [*](https://github.com/MatiasGuaymas/DBD/tree/main/Practicas%20PDF)
-* [**Práctica 1**](https://github.com/MatiasGuaymas/DBD/tree/main/Resoluciones/Practica%201)
-* [**Práctica 2**](https://github.com/MatiasGuaymas/DBD/tree/main/Resoluciones/Practica%202)
-* [**Práctica 3**](https://github.com/MatiasGuaymas/DBD/tree/main/Resoluciones/Practica%203)
-* [**Práctica 4**](https://github.com/MatiasGuaymas/DBD/tree/main/Resoluciones/Practica%204)
+### Prácticas PDF [*](https://github.com/MatiasGuaymas/INGE-1/tree/main/Practicas%20PDF)
+* [**Práctica 1**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Resoluciones/Practica%201)
+* [**Práctica 2**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Resoluciones/Practica%202)
+* [**Práctica 3**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Resoluciones/Practica%203)
+* [**Práctica 4**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Resoluciones/Practica%204)
+* [**Práctica 5**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Resoluciones/Practica%205)
+* [**Ejercicios Adicionales DTE-RP**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Practicas%20PDF/Ejercicios%20adicionales%20DTE%20y%20Redes%20de%20Petri.pdf)
 
 ## Explicaciones Prácticas
-* [**1. Modelo conceptual**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/1.%20Modelo%20conceptual.pdf)
-* [**2. Modelo lógico**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/2.%20Modelo%20logico.pdf)
-* [**3. Modelo físico**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/3.%20Modelo%20fisico.pdf)
-* [**4. Álgebra relacional**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/4.%20Algebra%20relacional.pdf)
-* [**5. SQL - 1ra Parte**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/5.%20SQL%20-%201ra%20Parte.pdf)
-* [**6. SQL - 2da Parte**](https://github.com/MatiasGuaymas/DBD/blob/main/Explicaciones/6.%20SQL%20-%202da%20Parte.pdf)
+* [**1. Historias de Usuario**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicaci%C3%B3n-HU-2024.pdf)
+* [**2. Casos de Uso**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-CU-2024.pptx)
+* [**3. Diagramas de Transición de Estados**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-DTE-2024.pdf)
+* [**4. Redes de Petri**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-RP-2024.pptx)
+* [**5. Tablas de Decisión**](https://github.com/MatiasGuaymas/INGE-1/blob/main/Explicaciones/Explicacion-TD-2024.pdf)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
