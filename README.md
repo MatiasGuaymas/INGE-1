@@ -1,5 +1,9 @@
 <h1 align="center"> Ingeniería de Software 1 </h1>
 
+> [!ERROR]
+> Las soluciones, explicaciones o guías compartidas en este repositorio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de la materia.  
+> Algunos ejercicios pueden contener **errores** o estar **desactualizados**. Se recomienda siempre consultar con un/a ayudante antes de tomarlos como correctos. 
+
 ### [**Modelos de parciales**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Parciales)
 ### [**Autoevaluaciones**](https://github.com/MatiasGuaymas/INGE-1/tree/main/Autoevaluaciones)
 
